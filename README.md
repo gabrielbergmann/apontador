@@ -1,6 +1,6 @@
 # 🧪 Automação de Apontamentos – Cypress + Excel
 
-Este projeto automatiza o preenchimento e envio de apontamentos no sistema [GDP Mouts](https://gdp.mouts.info/) usando **Cypress** com suporte à leitura de arquivos Excel (`.xlsx`).
+Este projeto automatiza o preenchimento e envio de apontamentos no sistema [GDP Mouts] usando **Cypress** com suporte à leitura de arquivos Excel (`.xlsx`).
 
 ---
 
